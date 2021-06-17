@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<title>Movies</title>
+</head>
+<h1 style="color:Purple;"><u> Fashion</u></h1>
+
+	<body style="background-color:LightPink;">
+
+<p style= "color:Purple"><strong>Rankings of my Top Five Fashion Trends:</strong>
+			<ol>
+				<p><li style="color:DeepPink;">Juicy Couture Velour Track Suits</li></p>
+				<p><img src="https://assets.vogue.com/photos/5f9af04f8f47255757af3929/16:9/w_1280,c_limit/00_social.jpg" width="25%"></p>
+				<p><li style="color:DeepPink;">Binged Out-Everything</li></p>
+				<p><img src="https://i.pinimg.com/originals/07/43/48/0743480123e309998c5b5a3829a11df2.jpg" width="25%"></p>
+				<p><li style="color:DeepPink;">Fur</li></p>
+				<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkR2SieYpduVK8Aqe7IvuI12BFbBVDmXT6Pyo6GQ7Lgp-Yuf3x-NLL2s5D0oTkbOVLmdh231c&usqp=CAc" width="25%"></p>
+				<p><li style="color:DeepPink;">Denim on Denim</li></p>
+				<p><img src="https://akns-images.eonline.com/eol_images/Entire_Site/20201019/rs_1200x1200-201119105137-1200-Britney-Spears-Justin-Timberlake-Denim-Outfits-Jacket-Canadian-Tuxedo-ch-111920.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top" width="25%"></p>
+				<p><li style="color:DeepPink;">Cropped Tops</li></p>
+				<p><img src="https://i.pinimg.com/originals/d3/96/08/d39608ce459abe97b5c6b5146a4d247d.jpg" width="25%"></p>
+				
+				
+			</ol>
+			
+			
+		</p>
+
+
+</body>
+</html>
